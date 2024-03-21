@@ -1,0 +1,1 @@
+This irrigation system offers a simple and efficient solution for maintaining soil moisture at an optimal level without constant manual intervention so is ideal for watering plants in small gardens, greenhouses, or even indoors. The use of Arduino UNO R3 facilitates the adaptation and expansion of the system for various applications and needs.
